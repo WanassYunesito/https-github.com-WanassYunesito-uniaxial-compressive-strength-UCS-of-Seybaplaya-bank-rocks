@@ -29,10 +29,11 @@ Before running the scripts, ensure you have the correct MATLAB version and the t
 Usage
 Clone or Download the Repository
 git clone https://github.com/<WanassYunesito>/<https-github.com-WanassYunesito-uniaxial-compressive-strength-UCS-of-Seybaplaya-bank-rocks“ into following link: https://github.com/WanassYunesito/https-github.com-WanassYunesito-uniaxial-compressive-strength-UCS-of-Seybaplaya-bank-rocks>.git
-cd <your-repository-name>
+cd (change directory) <https://github.com/WanassYunesito/https-github.com-WanassYunesito-uniaxial-compressive-strength-UCS-of-Seybaplaya-bank-rocks>
 
 Open MATLAB and navigate to the cloned folder:
-cd('<https://github.com/uniaxial-compressive-strength-UCS-of-Seybaplaya-bank-rocks>');
+cd('<https://github.com/uniaxial-compressive-strength-UCS-of-Seybaplaya-bank-rocks>');[Codes_UCS_rocks.zip](https://github.com/user-attachments/files/18466349/Codes_UCS_rocks.zip)
+
 
 Data Preprocessing
 Run the preprocess_data.m script to clean the dataset, handle missing values, and apply any scaling or normalization if needed:
